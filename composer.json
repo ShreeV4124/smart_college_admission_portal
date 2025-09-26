@@ -1,0 +1,8 @@
+{
+  "name": "shriraj/admission-portal",
+  "description": "Student Admission Portal using PHP and mPDF",
+  "type": "project",
+  "require": {
+    "mpdf/mpdf": "^8.2"
+  }
+}

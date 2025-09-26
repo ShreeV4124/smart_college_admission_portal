@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="styles/form.css">
+
+<h2>Register</h2>
+<form method="post" action="user_register.php">
+    Username: *<input type="text" name="username" required><br><br>
+    Password: *<input type="password" name="password" required><br><br>
+    Email: *<input type="email" name="email" required><br><br>
+    Role: <select name="role" required>
+            <option value="admin">Admin</option>
+            <option value="faculty">Faculty</option>
+        </select><br><br>
+    <input type="submit" value="Register">
+</form>
+<a href="index.php">⬅ Go Back</a>

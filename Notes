@@ -1,0 +1,44 @@
+>Object relationship Management.follows 3 tier architecture (Pending).
+
+>Send a Email to the student after course allotment and ask for fee payment (attach the fee template in the mail)   -  DONE
+
+>PHP Mailer to send mail for confirmation to students.  -   DONE
+
+>MPDF version compatile to mine php version. - DONE
+
+>Bypass the payment gateway for now and make a new table about payment details(mode, student_id,course_id, amount, time, date, etc.)  Put all this info in the reciept and use MPDF to download the reciept from Mail - DONE
+
+>Curl - for using 3rd party information in our software, the user should not know from where it came from. To make request/send an API, request/send data from other server  - DONE
+        Example : 
+
+            <?php
+            $url = "https://api.example.com/data";
+
+            $ch = curl_init($url);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+            $response = curl_exec($ch);
+            curl_close($ch);
+
+            echo $response;
+            ?>
+
+
+>Send a mail after new student registration about his successful registration along with his set username and password. - DONE
+
+>Dont allow to set Unverified after the course is assigned. - DONE           
+
+>old app password : uyum wddu eajb aegg
+
+>encrypting and decrypting of passwords  -  Pending
+
+>Use Base URL's for navigating through varoius pages... -  DONE
+
+>Basic security check for sql/php/javascript injection  -  DONE
+
+
+>Merit list based on CET marks.Intake capacity = 60.Then 1st merit list of top 25 students then same for 2nd merit list. Then remaining 10 will be the 3rd special merit list. All will work according to the merit list.   -  PENDING
+
+> Edit and Deleting of faculty is Not working  -  PENDING
+
+>ChatBot Integration   -   WORKING
+
