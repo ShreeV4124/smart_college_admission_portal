@@ -65,13 +65,13 @@ The system includes **AI-powered assistance (chatbot)**, **email notifications**
 ![Admin Dashboard](screenshots/admin_dashboard.png.png)
 
 ### Course Assignment
-![Course Assignment](screenshots/course_assignment.png.png)
+![Course Assignment](screenshots/course_assign.png.png)
 
 ### Fee Receipt
 ![Fee Receipt](screenshots/fee_receipt.png.png)
 
 ### AI Assistant (Chatbot)
-![Chatbot](screenshots/chatbot.png.png)
+![Chatbot](screenshots/AI_chatbot.png.png)
 
 ---
 
