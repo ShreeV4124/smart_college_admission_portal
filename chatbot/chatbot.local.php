@@ -8,7 +8,7 @@ $conn = connectDB(); // Must return PDO instance
 $usermessage = trim($_POST['message'] ?? '');
 
 function askGemini($usermessage) {
-    $apiKey = "AIzaSyAqP7W66Ep652FzQvGAVxwUrSGbcaPuWKA"; 
+    $apiKey = "Your API Key"; 
     $url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
 
     $data = [
@@ -105,3 +105,4 @@ if (!empty($usermessage)) {
 }
 
 ?>
+
