@@ -53,10 +53,10 @@ The system includes **AI-powered assistance (chatbot)**, **email notifications**
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](screenshots/landing.png.png)
 
 ### Registration Page
-![Registration Page](screenshots/register.png)
+![Registration Page](screenshots/register.png.png)
 
 ### Student Dashboard
 ![Student Dashboard](screenshots/student_dashboard.png)
