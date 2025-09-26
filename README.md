@@ -59,19 +59,19 @@ The system includes **AI-powered assistance (chatbot)**, **email notifications**
 ![Registration Page](screenshots/register.png.png)
 
 ### Student Dashboard
-![Student Dashboard](screenshots/student_dashboard.png)
+![Student Dashboard](screenshots/student_dashboard.png.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.png.png)
 
 ### Course Assignment
-![Course Assignment](screenshots/course_assignment.png)
+![Course Assignment](screenshots/course_assignment.png.png)
 
 ### Fee Receipt
-![Fee Receipt](screenshots/fee_receipt.png)
+![Fee Receipt](screenshots/fee_receipt.png.png)
 
 ### AI Assistant (Chatbot)
-![Chatbot](screenshots/chatbot.png)
+![Chatbot](screenshots/chatbot.png.png)
 
 ---
 
